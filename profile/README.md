@@ -10,9 +10,10 @@ Source code for Dave Leeds' articles, videos, and livestreams.
 
 ### Read the Book
 
-- [Online Edition](https://typealias.com/start)
-- Digital Edition available [at the shop](https://shop.typealias.com) or [on Leanpub](https://leanpub.com/kotlin-illustrated)
-- Print Edition - It's almost here! Join the [waitlist](https://print.typealias.com) today.
+- [Online Edition](https://typealias.com/start).
+- Digital Edition available [at the shop](https://shop.typealias.com) or [on Leanpub](https://leanpub.com/kotlin-illustrated).
+- [Print Edition](https://www.amazon.com/Kotlin-Illustrated-Guide-Dave-Leeds/dp/B0F3Q1DKGX/) is available on Amazon.
+- A Russian translation is available from [DMK Press Publishing](https://dmkpress.com/catalog/computer/programming/java/978-5-93700-377-5/).
 
 ## Videos and Livestreams
 
