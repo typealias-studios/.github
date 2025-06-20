@@ -23,4 +23,4 @@ Source code for Dave Leeds' articles, videos, and livestreams.
 
 - [X/Twitter](https://x.com/djleeds)
 - [LinkedIn](https://www.linkedin.com/in/daveleeds/)
-- [Bluesky](https://bsky.app/profile/daveleeds.bsky.social)
+- [Bluesky](https://bsky.app/profile/typealias.com)
